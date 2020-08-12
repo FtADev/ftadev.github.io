@@ -5,7 +5,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "index.html": "3be699ed747628b76e87656fe25c02b5",
 "/": "3be699ed747628b76e87656fe25c02b5",
-"main.dart.js": "43a8043390ae137647b92ca50aa9ad54",
+"main.dart.js": "e19011c066ea90a7bbeb4215e2b44360",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "manifest.json": "24d2619bc2a413a103dac790eadc6ae9",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -15,7 +15,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/fonts/Dekko-Regular.ttf": "df413a2acd7edb845e6658826c8a2aa9",
 "assets/AssetManifest.json": "f05f359db3d24717cc012883b36bdd03",
-"assets/LICENSE": "5aa8c00fcfd83e2db11a4d45c3e7231d",
+"assets/LICENSE": "04daa14b894c621373bded05e5b57865",
 "assets/assets/pishi.png": "a767c82b20d27c78b94d2d971db22c40",
 "assets/assets/gmail.png": "828e4779415a6ad47ff7fa9d3c4a5772",
 "assets/assets/pishi-m.jpg": "6a9ce3c5a92dd0f5e1ada11efd9cc154",
